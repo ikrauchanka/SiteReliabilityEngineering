@@ -139,7 +139,7 @@ Value to customers in this case could be thought of the probability that new cus
 *“Silver Bullets”* 
 - Error budget is already out. SRE doesn’t want to support the new feature. SWE says new feature is vital to company and has N-silver bullets. The SWE would have to have seniority and use one of their silver bullets in this case. DO NOT ROLLOVER.
 
-⚠️ ️️️Silver Bullets are treated as a failure and would require a post-mordem. ⚠️
+⚠️ ️️️Silver Bullets are treated as a failure and would require a post-mortem. ⚠️
 
 
 
